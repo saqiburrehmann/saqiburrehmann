@@ -1,42 +1,124 @@
-# 💫 About Me:
-I'm a **Full-Stack Software Engineer** passionate about building **scalable, real-time, and cloud-ready applications**.  
-- 🔥 Specialized in **MERN & Next.js** for modern, production-grade web apps.  
-- ⚡ Experienced with **real-time communication** using WebSockets, Redis Pub/Sub, and scalable backend systems.  
-- 🔑 Strong in **authentication/authorization** with JWT, OAuth2, and role-based access.  
-- ☁️ Hands-on with **AWS (Lambda, S3)** and cloud deployment for high-availability apps.  
-- 🤖 Currently exploring **AI/LLMs** and **Prompt Engineering** to integrate intelligent systems into web applications.  
+# Saqib Ur Rehman  
+**Full-Stack Engineer | MERN • Next.js • Scalable Systems • Cloud-Ready Architecture**
 
 ---
 
-# 💻 Tech Stack:
-**Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap  
-**Backend:** Node.js, Express.js, NestJS, WebSockets, REST APIs, JWT, OAuth2  
-**Databases:** MongoDB, MySQL, PostgreSQL, Redis  
-**DevOps & Cloud:** AWS (S3, Lambda), Firebase, Vercel, Netlify  
-**Others:** Git, GitHub, Swagger, Postman, Stripe, Twilio, Prompt Engineering  
+## Profile
+
+Full-Stack Software Engineer specializing in designing and building scalable, high-performance web applications using modern JavaScript/TypeScript ecosystems.  
+
+I focus on backend architecture, real-time systems, secure authentication flows, and production-grade deployments. My approach prioritizes clean architecture, performance optimization, maintainability, and long-term scalability.
+
+Currently exploring AI/LLM integrations and intelligent system design to enhance modern web applications.
 
 ---
 
-## 🚀 Featured Projects:
-- 🛒 **ProShop E-Commerce** – Full MERN stack shop with authentication, payments, and admin dashboard.  
-- 📝 **Next.js Blog Platform** – Full-stack blog with authentication, subscriptions, and SEO optimization.  
-- 💬 **NestJS WebSocket Chat App** – Real-time private messaging with JWT-authenticated sockets.  
-- 🚖 **Uber Clone (MERN)** – Real-time ride requests & updates using WebSockets and Maps API.  
+## Core Expertise
+
+### Backend & Architecture
+- Node.js, Express.js, NestJS
+- RESTful API Design & Microservice-Oriented Architecture
+- Clean Architecture & Modular System Design
+- WebSockets & Real-Time Systems
+- Redis (Pub/Sub, Caching)
+- Background Jobs & Queue Systems
+- Authentication & Authorization (JWT, OAuth2, RBAC)
+
+### Frontend Engineering
+- React.js, Next.js (App Router, Server Components)
+- Redux Toolkit
+- Tailwind CSS
+- Performance Optimization & SEO Best Practices
+- Component-Driven Architecture
+
+### Databases
+- MongoDB (Schema Design & Optimization)
+- PostgreSQL
+- MySQL
+- Redis
+- Firebase / Supabase
+
+### Cloud & DevOps
+- AWS (Lambda, S3)
+- Vercel, Railway, Render
+- Docker
+- CI/CD Pipelines
+- Production Deployment & Monitoring
+
+### Payments & Integrations
+- Stripe Subscriptions
+- Twilio (Communication Services)
+- Webhook Architectures
+- Third-party API Integrations
+
+### AI & Emerging Tech
+- LLM Integration
+- Prompt Engineering
+- AI-assisted Workflow Systems
 
 ---
 
-## 🌐 Connect With Me:
-[LinkedIn](https://linkedin.com/in/saqib-ur-rehman-1827522ba) ・  
-[Instagram](https://www.instagram.com/saqib_rehman_warsi_) ・  
-[Facebook](https://facebook.com/SAQI2497) ・  
-📩 **saqiburrehman75@gmail.com**  
+## Professional Experience
+
+### MERN Stack Developer — Tech Ciao  
+**Dec 2024 – Present**
+
+- Architected scalable full-stack applications using Node.js, NestJS, MySQL, MongoDB, Supabase, and Firebase.
+- Designed and implemented secure authentication systems with role-based access control.
+- Built high-performance Next.js applications with modern UI architecture.
+- Deployed and maintained production systems across Vercel, Railway, and Render.
+- Collaborated within Agile teams, ensuring code quality through reviews and architectural discussions.
+
+### JavaScript Developer — Blue Raven Inc  
+**July 2024 – Dec 2024**
+
+- Developed full-stack applications using React, Node.js, Express, and MongoDB.
+- Built responsive, cross-browser compatible interfaces.
+- Integrated REST APIs and optimized client-server communication.
+- Contributed to sprint planning, debugging, and performance improvements.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saqiburrehmann&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=saqiburrehmann&theme=dark&hide_border=false)  
+## Selected Projects
+
+### IdentityResolve — Identity & Automation Platform
+- Developed a custom JavaScript tracking pixel for advanced engagement analytics.
+- Integrated Stripe subscription management for SaaS monetization.
+- Built an automation execution engine supporting email workflows and webhooks.
+- Managed background processes using scheduled job systems.
+
+### ProShop E-Commerce (MERN)
+- Full-featured e-commerce platform with authentication, payments, and admin management.
+- Designed secure API layers and optimized database queries.
+
+### Real-Time Chat Application (NestJS + WebSockets)
+- JWT-authenticated socket connections.
+- Scalable private messaging architecture.
+- Event-driven communication model.
+
+### Ride Booking Platform (MERN)
+- Real-time ride updates using WebSockets.
+- Interactive map integration.
+- Stateful user sessions and dynamic request lifecycle management.
 
 ---
 
-> _“Code is not just code, it’s a craft — and I strive to make mine impactful.”_  
+## Engineering Philosophy
+
+- Prioritize architecture before implementation.
+- Write scalable code, not just functional code.
+- Optimize for maintainability and long-term growth.
+- Design systems that are secure by default.
+- Treat code as a product, not just a task.
+
+---
+
+## Connect
+
+LinkedIn: https://linkedin.com/in/saqib-ur-rehman-1827522ba  
+GitHub: https://github.com/saqiburrehmann  
+Email: saqiburrehman75@gmail.com  
+
+---
+
+> "Great software is not built by chance. It is designed with intent."
