@@ -4,5 +4,4 @@ Full-stack engineer building scalable, production-ready SaaS products end to end
 
 **Stack:** TypeScript · React · Next.js · NestJS · Node.js · PostgreSQL · MongoDB · Stripe · Docker
 
-📫 [Portfolio](https://saqiburrehman.com/) · [LinkedIn](https://www.linkedin.com/in/saqiburrehmann) · saqiburrehman75@gmail.com
-
+[Portfolio](https://saqiburrehman.com/) · [LinkedIn](https://www.linkedin.com/in/saqiburrehmann) · saqiburrehman75@gmail.com
